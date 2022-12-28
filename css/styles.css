@@ -648,7 +648,7 @@ width: 264px;
 }
 
 .close-btn:hover {
-    background-image: url(../images/close2.svg);
+    background-image: url(../images/close-active.svg);
     background-size: contain;
     width: 24px;
     height: 24px;
